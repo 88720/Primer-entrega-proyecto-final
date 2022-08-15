@@ -1,0 +1,30 @@
+body {
+  background-color: lightgray;
+}
+
+#titulo {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 45px;
+  color: firebrick;
+  border: 3px rgb(70, 2, 2) solid;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 15px;
+  text-align: center;
+}
+
+#subtitulo {
+  color: crimson;
+}
+
+.parrafo {
+  color: crimson;
+  text-decoration-line: underline;
+}
+
+#anuncio {
+  color: darkcyan;
+  background-color: lightsalmon;
+  width: 150px;
+  text-align: center;
+}
